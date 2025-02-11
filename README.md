@@ -1,12 +1,35 @@
-# Database Project of medical Store website
-Here is a website for handling and managing multiple stores (in my case 4 stores) that are handled by one admin and each store is handled by manager wo insert, update, delete the detial of medicine, their stocks and sales data. This data will be checked by admin and is shown to him in a proper GUI.
+# 🏥 Database Project: Medical Store Website 🏥  
 
-In order to run this website, firstly you have to install xampp server and in the xampp control you have to start apache server and mysql.
-Go to chrome, search for localhost, a dashboard appear, open phpmyadmin, mysql database will open, there you have to create a database of name pharmacy.
-Then in that database, go to import file and there select the path of sql database file of pharmacy,that is in the database folder.
+This project is a **web-based system** for managing multiple **medical stores**.  
+- 🏪 **4 stores**, each managed by a **store manager**  
+- 🏷️ **Admin** oversees all stores, monitoring **medicine stocks & sales data**  
+- 📊 **GUI Interface** for easy data management  
 
-GO to chrome, search for localhost,then remove dashboard from link and 'localhost/enter Website_for_managing_multiple_medical_stores/index.php'
+---
 
-BOOM
+## 📂 Project Overview  
 
-Your website will run and Login Page will appear.
+- **User Roles:**  
+  - **Admin:** Oversees all stores and reviews data  
+  - **Store Managers:** Add, update, delete **medicine details**, manage **stocks & sales**  
+
+- **Database:**  
+  - Created in **MySQL** using **phpMyAdmin**  
+  - Stores **medicine information, sales records, stock details**  
+
+---
+
+## ⚙️ Installation and Setup  
+
+### 1️⃣ **Install XAMPP Server**  
+First, download and install **XAMPP**.  
+
+### 2️⃣ **Start Apache & MySQL**  
+Open **XAMPP Control Panel** and **start**:  
+✅ **Apache Server**  
+✅ **MySQL**  
+
+### 3️⃣ **Setup the Database**  
+1. Open **Chrome** and go to:  
+   ```sh
+   localhost
