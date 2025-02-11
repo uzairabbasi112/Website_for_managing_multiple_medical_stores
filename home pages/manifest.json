@@ -1,0 +1,30 @@
+{
+    "name": "Gamma",
+    "short_name": "Gamma",
+    "description": "A new medium for presenting ideas, powered by AI",
+    "display": "minimal-ui",
+    "start_url": "/",
+    "orientation": "portrait",
+    "theme_color": "#480D9B",
+    "background_color": "#f7f3f2",
+    "categories": ["productivity", "utilities", "tools"],
+    "display_override": ["window-control-overlay", "minimal-ui"],
+    "shortcuts": [
+      {
+        "name": "New Gamma",
+        "url": "/new"
+      },
+      {
+        "name": "New with AI",
+        "url": "/generate"
+      }
+    ],
+    "icons": [
+      {
+        "src": "/favicons/pwa-icon-512x512.png",
+        "sizes": "512x512",
+        "type": "image/png",
+        "purpose": "any"
+      }
+    ]
+  }
