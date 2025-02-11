@@ -18,6 +18,25 @@ This project is a **web-based system** for managing multiple **medical stores**.
   - Stores **medicine information, sales records, stock details**  
 
 ---
+### Login Page
+![3](image/m2.png)
+
+## Admin 
+### Webapp Page 1 
+![1](image/m3.png)  
+
+### Webapp Page 2  
+![2](image/m4.png)  
+
+## Manager 
+### Webapp Page 3
+![3](image/m1.png)
+
+### Webapp Page 4
+![3](image/m6.png)
+
+### Webapp Page 5
+![3](image/m5.png)
 
 ## ⚙️ Installation and Setup  
 
